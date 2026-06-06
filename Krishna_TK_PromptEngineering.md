@@ -175,7 +175,9 @@ Low temperature settings should be used when accuracy and formatting are non-neg
 a 30-minute commute, and you need to eat lunch (30 mins) beforehand.
 You also have a 45-minute call scheduled at 11 AM. What time should you
 start preparing to make everything work?just provide me the final time.
-* **LLM Output:** 12:00 PM
+* **LLM Output:**
+
+  > 12:00 PM
 
 #### With Chain-of-Thought
 * **Prompt:** You have a meeting at 2 PM that requires 1 hour of prep time,
