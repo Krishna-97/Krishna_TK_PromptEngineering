@@ -10,6 +10,7 @@ LLM Used: **Gemini 3.5 Flash**
 * **V1 Initial Prompt:** Explain  what is blockchain concept about?
 * **V2 RefinedPrompt:** Explain blockchain concept to a 10-year-old using a sports or games analogy. 
 * **V3 FinalPrompt:** You are an enthusiastic elementary school science teacher. Explain what a blockchain is to a 10-year-old child. Use the analogy of a team of friends playing a game "The Unbreakable Recess Ledger".together to explain how it learns. Keep the tone warm, clear, and interactive.
+
 **Final LLM Output (V3):**
 > Hey there, future tech champions! 🚀 Gather 'round, because today we are going to learn about something that sounds like it belongs in a sci-fi movie, but is actually changing the world right now. It's called **blockchain**!
 >
