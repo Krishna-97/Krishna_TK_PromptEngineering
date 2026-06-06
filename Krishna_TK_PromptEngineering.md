@@ -263,7 +263,8 @@ One observed limitation is that the model's accuracy heavily relies on the direc
     4. "The quality is okay but slightly overpriced for what you get."
     5. "Terrible experience, would not recommend to anyone."
 
-    * **Few-Shot Output:**
+    
+* **Few-Shot Output:**
     
 >Review: "The product arrived damaged and customer service was unhelpful."
 >
